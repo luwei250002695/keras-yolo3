@@ -85,6 +85,7 @@ def _main():
         model.save_weights(log_dir + 'trained_weights_final.h5')
 
     # Further training if needed.
+    #  this is luwei#######
 
 
 def get_classes(classes_path):
